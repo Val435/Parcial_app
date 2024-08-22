@@ -1,4 +1,4 @@
-# # Wheater_App
+# Wheater_App
 
 La aplicación muestra el clima actual de El Salvador y un pronóstico de las próximas horas utilizando la API de OpenWeatherMap para obtener los datos climáticos.
 Requisitos
