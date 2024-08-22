@@ -1,6 +1,6 @@
 # Wheater_App
 
-La aplicación muestra el clima actual de El Salvador y un pronóstico de las próximas horas utilizando la API de OpenWeatherMap para obtener los datos climáticos.
+La aplicación hecha con Flutter, muestra el clima actual de El Salvador y un pronóstico de las próximas horas utilizando la API de OpenWeatherMap para obtener los datos climáticos.
 Requisitos
 • [Flutter](https://flutter.dev/docs/get-started/install) 3.0 o superior.
 • Una clave API de [OpenWeatherMap](https://openweathermap.org/api).
